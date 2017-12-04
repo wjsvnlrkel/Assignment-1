@@ -1,0 +1,39 @@
+
+body {
+    font-family:sans-serif;
+    border-top: 10px solid #ffffff;
+    border-bottom: 10px solid #ffffff;
+    
+    background: url("/starter_code/images/3336-grey-texture-1920x1080-abstract-wallpaper.gif");
+    
+    line-height: 2; /* document/content spacing */
+    
+    margin: 20px 20%;
+ /* padding-top: 50px;
+    padding-bottom: 50px;*/
+    padding: 50px;
+    
+    font-size: 18px;
+    
+    width: 800px;
+    background-color: #001426;
+    color: #fff;
+}
+
+
+nav ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+    line-height: 1.5;
+}
+
+nav li {
+    display:inline-block; /* to display text on one line */
+}
+
+
+#navigation-1 {
+    text-align: center;
+    margin: 0 50px;
+}
