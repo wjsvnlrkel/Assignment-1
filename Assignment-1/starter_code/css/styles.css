@@ -7,7 +7,7 @@
 } */
 
 body {
-    font-family:sans-serif;
+    font-family:sans-serif, helvetica;
     border-top: 10px solid #ffffff;
     border-bottom: 10px solid #ffffff;
     
@@ -76,8 +76,9 @@ a:hover {
     color: #b9b9b9;
 }
 
-#content-2 em {
+#content-2 span {
     font-weight: bold;
+    font-style: italic;
 }
 
 div {
