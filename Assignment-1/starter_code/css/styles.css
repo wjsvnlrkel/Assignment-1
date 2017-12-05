@@ -76,4 +76,15 @@ a:hover {
     color: #b9b9b9;
 }
 
+#content-2 em {
+    font-weight: bold;
+}
 
+div {
+    margin: auto;
+}
+
+div .list-img {
+    margin: 0 10%;
+    padding: 10px;
+}
